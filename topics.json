@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "61869167dd9ed3b55b358c60"
+  },
+  "topic_id": 1,
+  "topic_name": "HTML",
+  "start_date": "07-SEP-2021"
+},{
+  "_id": {
+    "$oid": "6186921add9ed3b55b358c61"
+  },
+  "topic_id": 2,
+  "topic_name": "CSS",
+  "start_date": "10-SEP-2021"
+},{
+  "_id": {
+    "$oid": "61869228dd9ed3b55b358c62"
+  },
+  "topic_id": 3,
+  "topic_name": "Javascript",
+  "start_date": "15-SEP-2021"
+},{
+  "_id": {
+    "$oid": "61869244dd9ed3b55b358c63"
+  },
+  "topic_id": 4,
+  "topic_name": "Jquery",
+  "start_date": "18-SEP-2021"
+},{
+  "_id": {
+    "$oid": "61869253dd9ed3b55b358c64"
+  },
+  "topic_id": 5,
+  "topic_name": "DOM Manipulation",
+  "start_date": "20-SEP-2021"
+},{
+  "_id": {
+    "$oid": "61869266dd9ed3b55b358c65"
+  },
+  "topic_id": 6,
+  "topic_name": "reactjs",
+  "start_date": "22-SEP-2021"
+},{
+  "_id": {
+    "$oid": "61869278dd9ed3b55b358c66"
+  },
+  "topic_id": 7,
+  "topic_name": "nodejs",
+  "start_date": "10-OCT-2021"
+},{
+  "_id": {
+    "$oid": "6186928edd9ed3b55b358c67"
+  },
+  "topic_id": 8,
+  "topic_name": "aws",
+  "start_date": "15-OCT-2021"
+}]

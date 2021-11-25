@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6186905add9ed3b55b358c56"
+  },
+  "userid": 1,
+  "username": "ABC",
+  "email": "abc@gmail.com",
+  "password": "abc@123",
+  "firstName": "ABC",
+  "lastName": "Zen"
+},{
+  "_id": {
+    "$oid": "618690badd9ed3b55b358c57"
+  },
+  "userid": 2,
+  "username": "DEF",
+  "email": "def@gmail.com",
+  "password": "def@123123",
+  "firstName": "DEF",
+  "lastName": "Zen"
+},{
+  "_id": {
+    "$oid": "618690cedd9ed3b55b358c58"
+  },
+  "userid": 3,
+  "username": "JKL",
+  "email": "jkl@gmail.com",
+  "password": "jkl@123",
+  "firstName": "JKL",
+  "lastName": "Zen"
+},{
+  "_id": {
+    "$oid": "618690f3dd9ed3b55b358c59"
+  },
+  "userid": 4,
+  "username": "MNO",
+  "email": "mno@gmail.com",
+  "password": "mno@123",
+  "firstName": "MNO",
+  "lastName": "Zen"
+},{
+  "_id": {
+    "$oid": "6186910ddd9ed3b55b358c5a"
+  },
+  "userid": 5,
+  "username": "PQR",
+  "email": "pqr@gmail.com",
+  "password": "pqr@123",
+  "firstName": "PQR",
+  "lastName": "Zen"
+},{
+  "_id": {
+    "$oid": "6186911add9ed3b55b358c5b"
+  },
+  "userid": 6,
+  "username": "XYZ",
+  "email": "xyz@gmail.com",
+  "password": "xyz@123",
+  "firstName": XYZ",
+  "lastName": "Zen"
+}]
